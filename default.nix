@@ -34,6 +34,7 @@ mkShell {
   [
     javascript.nodejs
     javascript.ijavascript
+    yarn
   ]
   ++
   [
